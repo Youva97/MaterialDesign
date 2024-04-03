@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="email_label">Email</string>
+    <string name="login_label">Login</string>
+    <string name="password_label">Mot de passe</string>
+    <string name="password_repeat_label">Répéter le mot de passe</string>
+</resources>
